@@ -32,17 +32,15 @@ alt="Hello, This is Abhinav" /></a>
 ### Programming Languages
 [![Language](https://skillicons.dev/icons?i=typescript&theme=dark)](https://github.com/Abhinavreddy733)
 [![Language](https://skillicons.dev/icons?i=javascript&theme=dark)](https://github.com/Abhinavreddy733)
-[![Language](https://skillicons.dev/icons?i=cpp&theme=dark)](https://github.com/Abhinavreddy733)
-[![Language](https://skillicons.dev/icons?i=php&theme=dark)](https://github.com/Abhinavreddy733)
+[![Language](https://skillicons.dev/icons?i=java&theme=dark)](https://github.com/Abhinavreddy733)
 
 ### Frameworks
 [![Backend Development](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/Abhinavreddy733)
 [![Backend Development](https://skillicons.dev/icons?i=express&theme=dark)](https://github.com/Abhinavreddy733)
-[![Backend Development](https://skillicons.dev/icons?i=workers&theme=dark)](https://github.com/ronit-ghosh) <img width="52" src="assets/zod.svg"/>
+ <img width="52" src="assets/zod.svg"/>
 [![Backend Development](https://skillicons.dev/icons?i=prisma&theme=dark)](https://github.com/Abhinavreddy733)
 [![Backend Development](https://skillicons.dev/icons?i=postgres&theme=dark)](https://github.com/Abhinavreddy733)
 [![Backend Development](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://github.com/Abhinavreddy733)
-[![Backend Development](https://skillicons.dev/icons?i=firebase&theme=dark)](https://github.com/Abhinavreddy733)
 [![Frontend Development](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://github.com/Abhinavreddy733)
 [![Frontend Development](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/Abhinavreddy733) <img width="45" src="assets/recoil.svg"/>
 [![Frontend Development](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/Abhinavreddy733)
@@ -56,10 +54,7 @@ alt="Hello, This is Abhinav" /></a>
 [![Other Tools](https://skillicons.dev/icons?i=git&theme=dark)](https://github.com/Abhinavreddy733)
 [![Other Tools](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Abhinavreddy733)
 [![Other Tools](https://skillicons.dev/icons?i=npm&theme=dark)](https://github.com/Abhinavreddy733)
-[![Other Tools](https://skillicons.dev/icons?i=pnpm&theme=dark)](https://github.com/Abhinavreddy733)
 [![Other Tools](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/Abhinavreddy733)
-[![Other Tools](https://skillicons.dev/icons?i=figma&theme=dark)](https://github.com/Abhinavreddy733)
-[![Other Tools](https://skillicons.dev/icons?i=ps&theme=dark)](https://github.com/Abhinavreddy733)
 
 
 # Social Links
