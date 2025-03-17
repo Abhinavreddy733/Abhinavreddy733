@@ -37,12 +37,11 @@ alt="Hello, This is Abhinav" /></a>
 ### Frameworks
 [![Backend Development](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/Abhinavreddy733)
 [![Backend Development](https://skillicons.dev/icons?i=express&theme=dark)](https://github.com/Abhinavreddy733)
- <img width="52" src="assets/zod.svg"/>
 [![Backend Development](https://skillicons.dev/icons?i=prisma&theme=dark)](https://github.com/Abhinavreddy733)
 [![Backend Development](https://skillicons.dev/icons?i=postgres&theme=dark)](https://github.com/Abhinavreddy733)
 [![Backend Development](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://github.com/Abhinavreddy733)
 [![Frontend Development](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://github.com/Abhinavreddy733)
-[![Frontend Development](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/Abhinavreddy733) <img width="45" src="assets/recoil.svg"/>
+[![Frontend Development](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/Abhinavreddy733)
 [![Frontend Development](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/Abhinavreddy733)
 
 ### Other Tools
